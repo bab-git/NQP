@@ -4,7 +4,7 @@ This code solves the following problem:
 
 `minimize_x 0.5*x'*H*x + C'*x`
 
-  `                   s.t   x>=0  , ||x||_0<T0`
+  `                   s.t.   x>=0  , ||x||_0<T0`
 
 The detail of the algorithm is described in the following paper:
 'Confident kernel dictionary learning for discriminative representation
