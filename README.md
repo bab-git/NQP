@@ -7,6 +7,7 @@ This code solves the following problem:
   `                   s.t.   x>=0  , ||x||_0<T0`
 
 The detail of the algorithm is described in the following paper:
+
 'Confident kernel dictionary learning for discriminative representation
 of multivariate time-series', B. Hosseini, F. Petitjean, Forestier G., and B. Hammer.
 
