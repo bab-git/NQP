@@ -13,4 +13,4 @@ of multivariate time-series', B. Hosseini, F. Petitjean, Forestier G., and B. Ha
 
 ## Using NQP
 - Try NQP_demo.m for a simple example for the proper usage of the algorithm.
-- The code is written using **Python3**
+- The code is written using **Python3**.
